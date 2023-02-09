@@ -1,0 +1,118 @@
+body
+{
+    margin:0;
+    padding:0;
+    font-family: 'Urbanist', sans-serif;
+    font-size: 120%;
+    color: rgb(69, 67, 68);
+}
+
+a
+{
+    color:rgb(135, 116, 102);
+    text-decoration:none;
+}
+
+a:hover
+{
+    color:rgb(168, 155, 138);
+}
+
+h1
+{
+    font-weight:normal;
+    border-bottom:1px solid #bbb;
+    padding:0 0 10px 0;
+    font-family: 'Inspiration', cursive;
+    font-size: 300%;
+    color: rgb(102, 103, 95);
+}
+
+h2
+{
+    font-weight:normal;
+    margin:30px 0 0;
+    font-family: 'Inspiration', cursive;
+    font-size: 250%;
+    color: rgb(167, 134, 117);
+}
+
+h3
+{
+    color: rgb(94, 93, 91);
+    font-size: 150%;
+}
+
+#content
+{
+    float:left;
+    width:60%;
+}
+
+.sidebar
+{
+    float: right;
+}
+
+p.date
+{
+    color:rgb(168, 155, 138);
+    font-family: 'Urbanist', sans-serif;
+    font-size: 85%;
+}
+
+.pagination
+{
+    margin:40px 0;
+    font-family: 'Urbanist', sans-serif;
+    font-size: 100%;
+}
+
+label
+{
+    float:left;
+    clear:both;
+    margin-bottom:4px;
+}
+
+input, textarea
+{
+    clear:both;
+    float:left;
+    margin:0 0 10px;
+    background-color: rgb(240, 233, 222);
+    border:0;
+    padding:6px 40px;
+    font-size:100%;
+    border-radius: 5px;
+}
+
+input[type=submit]
+{
+    background-color: rgb(135, 116, 102);
+    color:rgb(236, 225, 212);
+    padding:10px 50px;
+    font-size:100%;
+}
+
+.errorlist
+{
+    color:#cc0033;
+    float:left;
+    clear:both;
+    padding-left:10px;
+}
+
+.comment
+{
+    padding:10px;
+}
+
+.comment .info
+{
+    font-weight:bold;
+    font-size:12px;
+    color:#666;
+}
+
+
