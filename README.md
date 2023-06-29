@@ -16,3 +16,6 @@ Lists of Posts from the most recent,
 Pagination, 
 Post Thumbnail, and
 Commenting System for each post
+
+# See it in action
+https://youtu.be/jp2S5nrzzXY
